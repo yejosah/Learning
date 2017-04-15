@@ -1,0 +1,5 @@
+cn\migu\controller\UserController.class
+cn\migu\dao\UserDao.class
+cn\migu\service\impl\UserServiceIpml.class
+cn\migu\model\User.class
+cn\migu\service\UserService.class
